@@ -1,11 +1,5 @@
-- 👋 Olá, Sou @MarcioOliveiraDev, professor de História e estudante de ADS - 5º Período
-- 👀 Estou interessado em Java, Spring Boot, Cloud e IA 
-- 🌱 Atualmente estou estudando HTML, CSS, JS, React JS e Spring Boot
-- 📫 Email: marcio.brito@souunit.com.br
 
-# Sobre Mim: Estudante de Desenvolvimento de Software
-
-Olá! 👋 Sou @MarcioOliveiraDev e sou um estudante apaixonado por desenvolvimento de software. Atualmente, estou focado em aprender sobre Inteligência Artificial (IA) e suas aplicações emocionantes no mundo da tecnologia.
+## Olá! 👋 Sou @MarcioOliveiraDev e sou um estudante apaixonado por desenvolvimento de software. Atualmente, estou focado em aprender sobre Inteligência Artificial (IA) e suas aplicações emocionantes no mundo da tecnologia.
 
 ## Minha Jornada
 
@@ -22,4 +16,4 @@ Estou dedicando meu tempo para estudar esses tópicos por meio de cursos online,
 
 ## Meu Contato:
 
-- 📫 Email: marcio.brito@souunit.com.br
+- 📫 Email: marcio_ssbrito@hotmail.com.br
